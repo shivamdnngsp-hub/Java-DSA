@@ -13,11 +13,7 @@ class Solution {
                 }
                 i++;
             }
-            int sum = 0;
-           for(Integer key : freq.keySet()){
-               sum += freq.get(key);
-               }
-               max = Math.max(sum,max);
+            max = Math.max(max, j - i + 1);
                j++;
         }
 
