@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -69,5 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1288-remove-covered-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
