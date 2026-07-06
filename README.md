@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,12 +73,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1288-remove-covered-intervals) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
