@@ -1,7 +1,7 @@
 class Solution {
     public int[] sumAndMultiply(String s, int[][] queries) {
         int n = s.length();
-long mod = 1_000_000_007L;
+long mod = 1000000007L;
 int[] sum = new int[n];
 int[] nonZeroCt = new int[n];
 long[] prefix = new long[n];
@@ -24,13 +24,11 @@ for (int i = 0; i < n; i++) {
     prefix[i] = num;
 }
 
-
 long[] pow = new long[s.length()+ 1];
 pow[0] = 1;
 for (int i = 1; i <= n; i++) {
     pow[i] = (1L * pow[i - 1] * 10)%mod;
 }
-
 
         int[] ans = new int[queries.length];
         for(int i = 0;i<queries.length;i++){
