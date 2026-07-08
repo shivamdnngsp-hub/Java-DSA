@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
