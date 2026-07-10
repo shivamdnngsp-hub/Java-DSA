@@ -1,0 +1,24 @@
+class Solution {
+    public boolean canJump(int[] nums) {
+        if(nums.length == 1){
+            return true;
+        }
+        int min = 0;
+        int max = 0;
+        for(int i = 0;i<nums.length;i++){
+            if(nums[i] == 0){
+                if(max == i){
+                    return false;
+                }
+            }
+            min = i+1;
+            max = Math.max(max,nums[i] + i);
+            if(max>=nums.length-1){
+                return true;
+            }
+        }
+
+    return false;
+
+    }
+}
