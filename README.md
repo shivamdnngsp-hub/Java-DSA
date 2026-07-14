@@ -113,5 +113,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
