@@ -14,25 +14,23 @@
  * }
  */
 class Solution {
-    boolean balanced = true;
     public int helper(TreeNode node){
         if(node == null){
             return 0;
         }
         int l = helper(node.left);
+        if(l== -1) return -1;
         int r = helper(node.right);
+        if(r== -1) return -1;
+        
 
-       int diff  = Math.abs(l- r);
-       if(diff >1){
-         balanced = false;
-       }
-
+       if(Math.abs(l- r)>1) return -1;
+       
       return  1 + Math.max(l,r);
     }
 
 
     public boolean isBalanced(TreeNode root) {
-       helper(root);
-       return balanced;
+       return helper(root) == -1 ? false : true;
     }
 }
