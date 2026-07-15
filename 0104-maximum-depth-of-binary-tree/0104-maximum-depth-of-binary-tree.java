@@ -14,24 +14,16 @@
  * }
  */
 class Solution {
-    public void helper(TreeNode node, List<Integer> ans, int d) {
+    public int helper(TreeNode node) {
         if (node == null) {
-            ans.set(0,Math.max(ans.get(0),d));
-            return;
+            return 0;
         }
 
-        d++;
-        helper(node.left, ans, d);
-        helper(node.right, ans, d);
-        d--;
-        return;
+        return 1 + Math.max(helper(node.left), helper(node.right));
     }
 
     public int maxDepth(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        ans.add(0);
-        helper(root,ans,0);
-        return ans.get(0);
+      return helper(root);
 
     }
 }
