@@ -20,14 +20,14 @@ class Solution {
         if(root == null) return ans;
        Queue<TreeNode> q = new LinkedList<>();
        q.offer(root);
-       int row = 0;
+      
        while(!q.isEmpty()){
           
          int size = q.size();
+         int last = 0;
          for(int i = 0;i<size;i++){
             TreeNode node = q.remove();
-            
-             mpp.put(row,node.val);
+             last = node.val;
             if(node.left != null){
                 q.offer(node.left);
             }
@@ -35,14 +35,8 @@ class Solution {
                 q.offer(node.right);
             }
          }
-         row++;
+         ans.add(last);
        }
-
-
-       for(int key : mpp.keySet()){
-        ans.add((mpp.get(key)));
-       }
-
 
 return ans;
     }
