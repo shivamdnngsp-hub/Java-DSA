@@ -28,9 +28,7 @@ class Solution {
         if(helper(node1.left,node2.right) == false || helper(node1.right,node2.left) == false){
             return false;
         }
-       
 
-        helper(node1.left,node2.right);
         return true;
 
     }
