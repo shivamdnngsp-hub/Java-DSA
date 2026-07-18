@@ -25,12 +25,10 @@ class Solution {
             return false;
         }
         
-        if(helper(node1.left,node2.right) == false){
+        if(helper(node1.left,node2.right) == false || helper(node1.right,node2.left) == false){
             return false;
         }
-        if(helper(node1.right,node2.left) == false){
-            return false;
-        }
+       
 
         helper(node1.left,node2.right);
         return true;
