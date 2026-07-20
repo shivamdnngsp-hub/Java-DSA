@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -199,9 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0257-binary-tree-paths) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
