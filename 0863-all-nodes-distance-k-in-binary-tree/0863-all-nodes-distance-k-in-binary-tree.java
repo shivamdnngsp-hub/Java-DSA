@@ -28,7 +28,7 @@ class Solution {
             }
         }
 
-        List<TreeNode> visited = new ArrayList<>();
+        Set<TreeNode> visited = new HashSet<>();
         visited.add(target);
         q.offer(target);
         int dis = 0;
