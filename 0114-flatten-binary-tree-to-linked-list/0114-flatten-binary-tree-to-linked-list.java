@@ -14,25 +14,17 @@
  * }
  */
 class Solution {
+    TreeNode prev = null;
      void helper(TreeNode node){
         if(node == null){
             return;
         }
-
-         helper(node.left);
          helper(node.right);
-         if(node.left == null){
-            return;
-         }
-         
-         TreeNode prev = node.left;
-         while(prev.right != null){
-            prev = prev.right;
-         }
-
-        prev.right = node.right;
-        node.right = node.left;
-        node.left = null;
+         helper(node.left);
+         node.right = prev;
+         node.left = null;
+         prev = node;
+        
      }
     public void flatten(TreeNode root) {
         helper(root);
