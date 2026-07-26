@@ -1,7 +1,6 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-    Arrays.sort(nums);
-    int n = nums.length -1;
+
     int max = Integer.MIN_VALUE;
     int secmax = Integer.MIN_VALUE;
     int thirdmax = Integer.MIN_VALUE;
