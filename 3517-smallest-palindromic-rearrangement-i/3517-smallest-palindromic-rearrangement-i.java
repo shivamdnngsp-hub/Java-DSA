@@ -1,38 +1,37 @@
 class Solution {
-
-
     public String smallestPalindrome(String s) {
-        if(s.length() == 1){
-            return s;
+    
+    int[] arr = new int[26];
+    for(int i = 0;i<s.length();i++){
+        arr[s.charAt(i)-'a']++;
+    }
+
+    StringBuilder sb = new StringBuilder();
+    char extra = '#';
+    for(int i = 0;i<26;i++){
+        if(arr[i] == 0) continue;
+        else if(arr[i]%2 == 0){
+            for(int j = 1;j<=arr[i]/2;j++){
+                sb.append((char)('a' + i));
+            }
+        }else{
+             extra = (char)('a' + i);
+            for(int j = 1;j<=(arr[i]-1)/2;j++){
+                sb.append((char)('a' + i));
+            }
         }
+    }
 
-         if(s.length()%2 == 0){
-            char[] c1 = s.substring(0,s.length()/2).toCharArray();
-            Arrays.sort(c1);
-            StringBuilder sb  = new StringBuilder();
-            for(char c : c1){
-                sb.append(c);
-            }
-            for(int i = c1.length-1;i>=0;i--){
-                sb.append(c1[i]);
-            }
-            return sb.toString();
-         }
+    int l = sb.length();
+    if(extra != '#'){
+       sb.append(extra);
+    }
 
-         char middle = s.charAt(s.length()/2);
-         
-         char[] ch1 = s.substring(0,s.length()/2).toCharArray();
-         Arrays.sort(ch1);
-          StringBuilder sbh = new StringBuilder();
-          for(char c: ch1){
-                sbh.append(c);
-            }
-            sbh.append(middle);
+    for(int i = l-1; i>= 0;i--){
+        sb.append(sb.charAt(i));
+    }
 
-             for(int i = ch1.length-1;i>=0;i--){
-                sbh.append(ch1[i]);
-            }
+return sb.toString();
 
-return sbh.toString();
     }
 }
