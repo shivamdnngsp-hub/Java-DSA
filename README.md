@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
