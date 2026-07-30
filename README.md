@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
