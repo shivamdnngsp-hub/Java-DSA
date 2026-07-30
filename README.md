@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
