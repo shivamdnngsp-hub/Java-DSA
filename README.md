@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0860-lemonade-change) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1260-shift-2d-grid) |
