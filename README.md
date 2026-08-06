@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
