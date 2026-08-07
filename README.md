@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0485-max-consecutive-ones) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0547-number-of-provinces) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0994-rotting-oranges) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
