@@ -1,51 +1,38 @@
 class Solution {
-    boolean helper(int node,int numCourses,List<List<Integer>> graph,boolean[] pathVisited,boolean[] visited){
-
-         if(pathVisited[node] == true){
-            return true;
-        }
-
-        visited[node] = true;
-        pathVisited[node] = true;
-
-    
-
-        for(int neg : graph.get(node)){
-            if(!visited[neg]){
-               if(helper(neg,numCourses,graph,pathVisited,visited)) return true;
-            }else if(pathVisited[neg]){
-                return true;
-            }
-        }
-
-        pathVisited[node] = false;
-        return false;
-    }
-   
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+     List<List<Integer>> graph = new ArrayList<>();
+     for(int i = 0;i<numCourses;i++){
+        graph.add(new ArrayList<>());
+     }
+      int[] indegree = new int[numCourses];
 
-        List<List<Integer>> graph = new ArrayList<>();
-        for(int i = 0;i<numCourses;i++){
-            graph.add(new ArrayList<>());
-        }
+      for(int i = 0;i<prerequisites.length;i++){
+         int u = prerequisites[i][0];
+         int v = prerequisites[i][1];
+         graph.get(v).add(u);
+         indegree[u]++;
+      }
 
-        for(int i = 0;i<prerequisites.length;i++){
-            int u = prerequisites[i][0];
-            int v = prerequisites[i][1];
-            graph.get(v).add(u);
-        }
+Queue<Integer> q = new LinkedList<>();
+for(int i = 0;i< indegree.length;i++){
+    if(indegree[i] == 0){
+      q.offer(i);
+    }
+}
 
-        boolean[] visited = new boolean[numCourses];
-        boolean[] pathVisited = new boolean[numCourses];
-        for(int i = 0;i<numCourses;i++){
-            if(!visited[i]){
-                if(helper(i,numCourses,graph,pathVisited,visited)){
-                    return false;
-                }
-            }
-        }
+int count = 0;
 
+while(!q.isEmpty()){
+int node = q.remove();
+count++;
+for(int neg : graph.get(node)){
+    indegree[neg]--;
+    if(indegree[neg] == 0){
+        q.offer(neg);
+    }
+}
+}
 
-return true;
+return count == numCourses;
     }
 }
