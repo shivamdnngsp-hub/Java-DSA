@@ -18,7 +18,7 @@ class Solution {
             }
          }
          List<Integer> ans = new ArrayList<>();
-         Queue<Integer> q = new LinkedList<>();
+        PriorityQueue<Integer> q = new PriorityQueue<>();
          for(int i = 0;i<outDegree.length;i++){
             if(outDegree[i] == 0){
              q.offer(i);
