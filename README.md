@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3731-find-missing-elements) |
 ## String
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3731-find-missing-elements](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3731-find-missing-elements) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3731-find-missing-elements) |
