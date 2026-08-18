@@ -33,6 +33,7 @@ long MOD = 1000000007L;
 
         while(!pq.isEmpty()){
             Pair p = pq.remove();
+            if(p.weight > time[p.node]) continue;
         
             for(Pair neg : graph.get(p.node)){
                 
