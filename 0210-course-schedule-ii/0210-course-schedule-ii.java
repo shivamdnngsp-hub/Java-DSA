@@ -1,9 +1,9 @@
 class Solution {
     List<Integer> ans = new ArrayList<>();
     boolean helper(int node, List<List<Integer>> graph,boolean[] visited,boolean[] pathVisited){
-       if(pathVisited[node]){
-        return true;
-       }
+    //    if(pathVisited[node]){
+    //     return true;
+    //    }
       
        pathVisited[node] = true;
        visited[node] = true;
