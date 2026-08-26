@@ -15,19 +15,19 @@ class Solution {
         Map<String,String> m1 = new HashMap<>();
         Map<String,List<String>> m2 = new HashMap<>();
 
-        for(List<String> x : accounts){
-           String userName = x.get(0);
-           for(int i = 1;i<x.size();i++){
-            m1.put(x.get(i),userName);
-            m2.putIfAbsent(x.get(i), new ArrayList<>());
-            for(int j = 1;j<x.size();j++){
-                if(i!= j){
-                    m2.get(x.get(i)).add(x.get(j));
-                }
-            }
-           }
-        }
-
+       for (List<String> x : accounts) {
+    String userName = x.get(0);
+    String firstEmail = x.get(1);
+    m1.put(firstEmail, userName);
+    m2.putIfAbsent(firstEmail, new ArrayList<>());
+    for (int i = 2; i < x.size(); i++) {
+        String email = x.get(i);
+        m1.put(email, userName);
+        m2.putIfAbsent(email, new ArrayList<>());
+        m2.get(firstEmail).add(email);
+        m2.get(email).add(firstEmail);
+    }
+}
 
         HashSet<String> visited = new HashSet<>();
        List<List<String>> ans = new ArrayList<>();
