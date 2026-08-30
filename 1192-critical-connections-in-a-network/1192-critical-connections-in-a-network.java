@@ -12,7 +12,7 @@ class Solution {
         timer++;
 
         for(int neg : graph.get(node)){
-            if(neg == parent) continue;
+            if(neg == parent) continue; // as at a node, i need to check whetaher i can reach a node lesser than parent as parent taak toe mai pounch hi sakta hu;
             if(!vis[neg]){
                dfs(neg,node,graph);
                low[node]  = Math.min(low[node],low[neg]);
@@ -21,7 +21,7 @@ class Solution {
                 ans.add(Arrays.asList(neg,node));
             }
             }else{
-                low[node] = Math.min(low[node],low[neg]);
+                low[node] = Math.min(low[node],low[neg]);// here i not check ed bridge as it is comman sense it is same compot as i reached already visited node;
             }
             
         }
