@@ -21,7 +21,7 @@ class Solution {
                 ans.add(Arrays.asList(neg,node));
             }
             }else{
-                low[node] = Math.min(low[node],time[neg]);
+                low[node] = Math.min(low[node],low[neg]);
             }
             
         }
