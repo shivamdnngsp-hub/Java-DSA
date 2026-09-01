@@ -12,7 +12,7 @@ class Solution {
         timer++;
 
         for(int neg : graph.get(node)){
-            if(neg == parent) continue; // as at a node, i need to check whetaher i can reach a node lesser than parent as parent taak toe mai pounch hi sakta hu;
+            if(neg == parent) continue; // as at a node, i need to check whetaher i can reach a node lesser than parent from differnt path as in backtracking edge that is connected between parent and child is intented to be removed but if i updated child low with parent low it means i can always reach parent so koi edge bridge hoga hi nahi so the pint is i should reach parent or before parent via diffrent path 
             if(!vis[neg]){
                dfs(neg,node,graph);
                low[node]  = Math.min(low[node],low[neg]);
