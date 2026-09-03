@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -547,4 +549,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
