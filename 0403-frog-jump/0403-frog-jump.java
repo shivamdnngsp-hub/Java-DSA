@@ -1,36 +1,32 @@
 class Solution {
-
-    boolean helper(int index, int jump, int[] stones, HashMap<Integer, Integer> map, Boolean[][]dp){
-        if (index == stones.length-1) {
-            return true;
-        }
-        if(jump > stones.length) return false;
-        if (dp[index][jump] != null) {
-            return dp[index][jump];
-        }
-        for (int i = -1; i <= 1; i++) {
-            int nextJump = jump + i;
-            if (nextJump <= 0) {
-                continue;
-            }
-            int nextPos = stones[index] + nextJump;
-            if (map.containsKey(nextPos)) {
-                int nextIndex = map.get(nextPos);
-                if (helper(nextIndex, nextJump, stones, map, dp)) {
-                    return dp[index][jump] = true;
-                }
-            }
-        }
-        return dp[index][jump] = false;
-    }
-
     public boolean canCross(int[] stones) {
-        int n = stones.length;
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            map.put(stones[i], i);
+         int n = stones.length;
+        boolean[][] dp = new boolean[n][n+1];
+        dp[0][0] = true;
+
+        HashMap<Integer,Integer> mpp = new HashMap<>();
+        for(int i = 0;i<n;i++){
+            mpp.put(stones[i],i);
         }
-        Boolean[][] dp = new Boolean[n][n];
-        return helper(0, 0, stones, map, dp);
+
+        for(int i = 0;i<n;i++){
+            for(int jump = 0; jump <= n;jump++){
+                 if(!dp[i][jump]){
+                    continue;
+                 }
+               for(int k = -1;k<= 1;k++){
+                 int nextJump = jump + k;
+                 if(nextJump <= 0) continue;
+                 int nextpos = stones[i] + nextJump;
+                
+                if(mpp.containsKey(nextpos)){
+                 int newindex = mpp.get(nextpos);
+                 if(newindex == n-1) return true;
+                  dp[newindex][nextJump] = true;
+                }
+               }
+            }
+        } 
+return false;
     }
 }
