@@ -1,14 +1,11 @@
 class Solution {
-    int ans = 0;
     int helper(int i,int[] nums,int[] dp){
-     if(i>=nums.length){
-        return 0;
-     }
-     if(dp[i] != -1){
+     if(i>=nums.length) return 0;
+      if(dp[i] != -1){
         return dp[i];
-     }
-
-     return dp[i] = Math.max(nums[i] + helper(i+2,nums,dp),helper(i+1,nums,dp));
+      }
+     return dp[i] =  Math.max(nums[i] + helper(i+2,nums,dp),helper(i+1,nums,dp));
+     
     }
 
 
