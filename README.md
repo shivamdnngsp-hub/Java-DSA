@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0778-swim-in-rising-water) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
