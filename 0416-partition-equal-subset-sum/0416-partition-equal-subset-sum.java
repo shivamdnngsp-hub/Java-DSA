@@ -11,7 +11,7 @@ class Solution {
         
         boolean[] cur = new boolean[total/2 +1];
         boolean[] next  = new boolean[total/2+1];
-        cur[0] = true;
+        next[0] = true;
         if(nums[nums.length-1]<=total/2){
             next[nums[nums.length -1]] = true;
         }
