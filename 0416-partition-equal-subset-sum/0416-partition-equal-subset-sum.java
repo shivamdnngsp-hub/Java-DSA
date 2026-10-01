@@ -8,25 +8,28 @@ class Solution {
         if(total % 2 != 0){
             return false;
         }
-        boolean[][] dp = new boolean[nums.length+1][total+1];
-        dp[nums.length -1][0] = true;
-       if(nums[nums.length -1]<=total){
-        dp[nums.length - 1][nums[nums.length - 1]] = true;
-       } 
-       
         
-        for(int i = nums.length -2;i>= 0;i--){
-            for(int s = 0;s<=total;s++){
-                boolean skip = dp[i+1][s];
-                boolean pick = false;
-                if(nums[i]<=s){
-                  pick = dp[i+1][s -nums[i]];
-                }
-                dp[i][s] = skip || pick;
-            }
+        boolean[] cur = new boolean[total/2 +1];
+        boolean[] next  = new boolean[total/2+1];
+        cur[0] = true;
+        if(nums[nums.length-1]<=total/2){
+            next[nums[nums.length -1]] = true;
         }
 
+        for(int i = nums.length -2;i>= 0;i--){
+            for(int s = 0;s<=total/2;s++){
+                boolean skip = next[s];
+                boolean pick = false;
+                if(nums[i]<=s){
+                  pick = next[s-nums[i]];
+                }
+                cur[s] = skip || pick;
+            }
+            boolean[] temp = cur;
+                cur = next;
+                next = temp;
+        }
 
-        return dp[0][total/2];
+        return next[total/2];
     }
 }
