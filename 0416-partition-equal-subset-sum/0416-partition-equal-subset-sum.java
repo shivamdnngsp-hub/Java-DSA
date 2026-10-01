@@ -1,19 +1,5 @@
 class Solution {
-    boolean helper(int i,int total,int[] nums,Boolean[][] dp){
-        if(i >= nums.length){
-            if(total == 0){
-                return true;
-            }
-            return false;
-        }
-        if(total<0){
-            return false;
-        }
-        if(dp[i][total] != null){
-            return dp[i][total];
-        }
-        return dp[i][total] = helper(i+1,total -nums[i],nums,dp) || helper(i+1,total,nums,dp);
-    }
+    
     public boolean canPartition(int[] nums) {
         int total = 0;
         for(int x : nums){
@@ -22,7 +8,27 @@ class Solution {
         if(total % 2 != 0){
             return false;
         }
-        Boolean[][] dp = new Boolean[nums.length+1][total+1];
-        return helper(0,total/2,nums,dp);
+        boolean[][] dp = new boolean[nums.length+1][total+1];
+        dp[nums.length -1][0] = true;
+       if(nums[nums.length -1]<=total){
+        dp[nums.length - 1][nums[nums.length - 1]] = true;
+       } 
+       for(int i = 0;i<nums.length -1;i++){
+        dp[i][0] = true;
+       }
+        
+        for(int i = nums.length -2;i>= 0;i--){
+            for(int s = 1;s<=total;s++){
+                boolean skip = dp[i+1][s];
+                boolean pick = false;
+                if(nums[i]<=s){
+                  pick = dp[i+1][s -nums[i]];
+                }
+                dp[i][s] = skip || pick;
+            }
+        }
+
+
+        return dp[0][total/2];
     }
 }
