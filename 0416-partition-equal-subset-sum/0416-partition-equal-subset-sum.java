@@ -13,12 +13,10 @@ class Solution {
        if(nums[nums.length -1]<=total){
         dp[nums.length - 1][nums[nums.length - 1]] = true;
        } 
-       for(int i = 0;i<nums.length -1;i++){
-        dp[i][0] = true;
-       }
+       
         
         for(int i = nums.length -2;i>= 0;i--){
-            for(int s = 1;s<=total;s++){
+            for(int s = 0;s<=total;s++){
                 boolean skip = dp[i+1][s];
                 boolean pick = false;
                 if(nums[i]<=s){
