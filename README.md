@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1260-shift-2d-grid) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0877-stone-game) |
+| [1049-last-stone-weight-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -606,9 +608,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
