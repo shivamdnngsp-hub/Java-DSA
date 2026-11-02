@@ -1,26 +1,9 @@
+// lets make this problem simple s1 - s2 = target and s1 + s2 = target i get s1 = (target+total)/2;
+// so i will count subarrys with sum s1; first ensure that s1 is even and target<total or if target is negtaive target < -total
+
+
 class Solution {
     
-    int helper(int i,int[] nums,int target,int[][] dp){ 
-      if(i >= nums.length){
-        if(target==0){
-            return 1;
-        }
-        return 0;
-      }
-      
-      if(dp[i][target] != -1){
-        return dp[i][target];
-      }
-
-      int skip = helper(i+1,nums,target,dp);
-      int pick = 0;
-      if(nums[i]<= target){
-      pick = helper(i+1,nums,target-nums[i],dp);
-      }
-
-      return dp[i][target] =  pick + skip;
-    }
-
     public int findTargetSumWays(int[] nums, int target) {
         int total = 0;
         for(int x : nums){
@@ -35,9 +18,17 @@ class Solution {
          
          int req = (total+target)/2;
         int[][] dp = new int[nums.length+1][req + 1];
-         for(int[] x : dp){
-            Arrays.fill(x,-1);
-         }
-        return helper(0,nums,req,dp);
+        dp[nums.length][0] = 1;
+        for(int i = nums.length -1;i>=0;i--){
+            for(int s  = 0;s<=req;s++){
+                int skip = dp[i+1][s];
+                int pick = 0;
+                if(nums[i]<=s){
+                    pick = dp[i+1][s-nums[i]];
+                }
+                dp[i][s] = pick + skip;
+            }
+        }
+     return dp[0][req];
     }
 }
