@@ -1,4 +1,6 @@
 // i will do skip and pick and only pick if the prepicked elemet is less then the current
+// i did prepickedi+1 as -1 is out of bound for array so i just shifted the preindex with 1; 
+// function mai toe mai normal vala prepikcedi pass kr raha hu
 class Solution {
     int helper(int i,int prepickedi,int[] nums,int[][] dp){
        if(i == nums.length){
