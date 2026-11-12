@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0403-frog-jump) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0403-frog-jump) |
@@ -627,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
