@@ -4,7 +4,6 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int[][] dp = new int[nums.length +1][nums.length+1];
-
          for(int i = nums.length-1;i>=0;i--){
             for(int p = i-1;p>= -1;p--){
                 int skip = dp[i+1][p+1];
