@@ -1,19 +1,34 @@
-// i will do skip and pick and only pick if the prepicked elemet is less then the current
-// i did prepickedi+1 as -1 is out of bound for array so i just shifted the preindex with 1; 
-// function mai toe mai normal vala prepikcedi pass kr raha hu
+// binary serach method.. i will maiain list tail, tails[i] represents the smallest possible ending value of an increasing subsequence so far, as jitni samll ending hogi more emets i can append, 
+// note the final length will be the ans  but finall elemts will not be the actual longest subsequnece
+// i will appned the elemt if it is gretaer then last elemt of list or replace it 
+
+
+
 class Solution {
-    public int lengthOfLIS(int[] nums) {
-        int[][] dp = new int[nums.length +1][nums.length+1];
-         for(int i = nums.length-1;i>=0;i--){
-            for(int p = i-1;p>= -1;p--){
-                int skip = dp[i+1][p+1];
-                int pick = 0;
-                if(p == -1 || nums[i]>nums[p]){
-                    pick = 1+dp[i+1][i+1];
-                }
-                dp[i][p+1] = Math.max(pick,skip);
+    int lowerbound(int ele, List<Integer> list) {
+        int low = 0;
+        int high = list.size();
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (list.get(mid) >= ele) {
+                high = mid;
+            } else {
+                low = mid + 1;
             }
-         }
-        return dp[0][0];
+        }
+        return low;
+    }
+
+    public int lengthOfLIS(int[] nums) {
+        List<Integer> l = new ArrayList<>();
+        for (int num : nums) {
+            if (l.isEmpty()||num>l.get(l.size()-1)) {
+                l.add(num);
+            } else {
+                int lb = lowerbound(num, l);
+                l.set(lb, num);
+            }
+        }
+        return l.size();
     }
 }
