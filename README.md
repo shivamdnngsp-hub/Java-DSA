@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1288-remove-covered-intervals) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -245,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0877-stone-game) |
+| [1048-longest-string-chain](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
