@@ -1,3 +1,5 @@
+// space optimzation 
+// study LIS first
 class Solution {
     boolean cmp(int i, int prevI, String[] words) {
         if (words[i].length() - 1 != words[prevI].length()) {
@@ -15,17 +17,17 @@ class Solution {
 
     public int longestStrChain(String[] words) {
         Arrays.sort(words, (a, b) -> a.length() - b.length());
-        int[][] dp = new int[words.length + 1][words.length + 1];
-        for(int i = words.length-1;i>= 0;i--){
-            for(int j = i-1;j>= -1;j--){
-                int skip = dp[i+1][j+1];
-                int pick = 0;
-                if(j == -1 || cmp(i,j,words)){
-                    pick = 1 + dp[i+1][i+1];
-                }
-                dp[i][j+1] = Math.max(skip,pick);
+        int dp[] = new int[words.length];
+        int ans = 0;
+        for(int i = 0;i<words.length;i++){
+            dp[i] = 1;
+            for(int j = 0;j<i;j++){
+              if(cmp(i,j,words) && dp[j] + 1 > dp[i]){
+                dp[i] = 1 + dp[j];
+              }
             }
+            ans = Math.max(ans,dp[i]);
         }
-        return dp[0][0];
+        return ans;
     }
 }
