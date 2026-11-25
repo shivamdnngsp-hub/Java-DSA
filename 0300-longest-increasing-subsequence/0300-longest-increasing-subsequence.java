@@ -1,34 +1,18 @@
-// binary serach method.. i will maiain list tail, tails[i] represents the smallest possible ending value of an increasing subsequence so far, as jitni samll ending hogi more emets i can append, 
-// note the final length will be the ans  but finall elemts will not be the actual longest subsequnece
-// i will appned the elemt if it is gretaer then last elemt of list or replace it 
-
-
-
+// space optimazation
 class Solution {
-    int lowerbound(int ele, List<Integer> list) {
-        int low = 0;
-        int high = list.size();
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-            if (list.get(mid) >= ele) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
-        }
-        return low;
-    }
-
     public int lengthOfLIS(int[] nums) {
-        List<Integer> l = new ArrayList<>();
-        for (int num : nums) {
-            if (l.isEmpty()||num>l.get(l.size()-1)) {
-                l.add(num);
-            } else {
-                int lb = lowerbound(num, l);
-                l.set(lb, num);
-            }
+    int[] dp = new int[nums.length+1];
+    int ans = 0;
+    for(int i = 0;i<nums.length;i++){
+        dp[i] = 1;
+        for(int j = 0;j<i;j++){
+           if(nums[i]>nums[j] && dp[j]+1 > dp[i]){
+            dp[i] = 1 + dp[j];
+           }
         }
-        return l.size();
+        ans = Math.max(dp[i],ans); 
+        // max length nikalni hai, so ya toe mai esse kr lo or last mai dp pae for loop lga kae max nikal lu;
+    }
+    return ans;
     }
 }
