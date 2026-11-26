@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1631-path-with-minimum-effort) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1765-map-of-highest-peak](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1631-path-with-minimum-effort) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0860-lemonade-change) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1463-cherry-pickup-ii) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Stack
 |  |
