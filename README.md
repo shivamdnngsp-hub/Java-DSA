@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0827-making-a-large-island) |
+| [0845-longest-mountain-in-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0904-fruit-into-baskets) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0845-longest-mountain-in-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0845-longest-mountain-in-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/1049-last-stone-weight-ii) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivamdnngsp-hub/Java-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bidirectional Search
 |  |
