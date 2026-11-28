@@ -1,7 +1,7 @@
 class Solution {
     public int findNumberOfLIS(int[] nums) {
         int[] dp = new int[nums.length];
-        int[] count = new int[nums.length];
+        int[] count = new int[nums.length];// count[i] = number of LIS ending at i
 
         for (int i = 0; i < nums.length; i++) {
             dp[i] = 1;
